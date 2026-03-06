@@ -6,7 +6,7 @@ I'm a passionate developer with four years of experience in coding, currently pu
 
 - 🌍 Based in England
 - 🖥️ Check out my portfolio at [Emberzo.com](https://emberzo.com/)
-- ✉️ Reach me at [contact@emberzo.com](mailto:contact@emberzo.com)
+- ✉️ Reach me at [contact@emberzo.com](mailto:michael@emberzo.com)
 - 🤝 Open to collaborating on website projects
 
 ---
