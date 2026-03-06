@@ -1,8 +1,8 @@
-# Hi 👋 My Name is Michael
+# Hi 👋 Welcome to Emberzo
 
 ## Full Stack Web Developer
 
-I'm a passionate developer with four years of experience in coding, currently pursuing a course in software/web development and cybersecurity.
+I'm a passionate Full Stack Web Developer with four years of experience, building web solutions under the Emberzo brand.
 
 - 🌍 Based in England
 - 🖥️ Check out my portfolio at [Emberzo.com](https://emberzo.com/)
@@ -76,7 +76,7 @@ I'm a passionate developer with four years of experience in coding, currently pu
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
     </picture>
   </a>
-  <a href="https://www.github.com/swayz8148" target="_blank" rel="noreferrer">
+  <a href="https://www.github.com/Emberzo" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
@@ -110,6 +110,6 @@ I'm a passionate developer with four years of experience in coding, currently pu
 
 ### My GitHub Stats
 
-<a href="http://www.github.com/MichealDownard">
-  <img src="https://github-readme-stats.vercel.app/api?username=MichealDownard&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="swayz8148's GitHub stats" />
+<a href="https://www.github.com/Emberzo">
+  <img src="https://github-readme-stats.vercel.app/api?username=Emberzo&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="Emberzo's GitHub stats" />
 </a>
